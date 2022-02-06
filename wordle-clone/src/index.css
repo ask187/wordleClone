@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important; 
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
